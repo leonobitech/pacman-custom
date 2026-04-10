@@ -1,5 +1,7 @@
 # Pac-Man Custom Edition
 
+![Pac-Man Custom Edition](cover.png)
+
 A custom Pac-Man game built with vanilla HTML5 Canvas and JavaScript.
 
 ## Features
